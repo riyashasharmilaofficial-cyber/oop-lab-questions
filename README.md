@@ -1,4 +1,0 @@
-# oop-lab-questions
-RAJAMANTHREE M.K.G.R.S.
-PE/2023/033
-COST21053
